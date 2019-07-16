@@ -11,8 +11,8 @@ url:                   https://domain.tld
 # (with leading /, but without the < >).
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
-# e.g. `/hydejack`.
-baseurl:               ''
+# e.g. `/groundhogB`.
+baseurl:               '/groundhogB'
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
@@ -66,7 +66,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2019. All rights reserved.
+copyright:             © 2019.groundhogB All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
