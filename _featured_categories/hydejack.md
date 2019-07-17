@@ -1,4 +1,4 @@
-﻿---
+﻿ ---
 layout: list
 title: 个人简介
 slug: hydejack
