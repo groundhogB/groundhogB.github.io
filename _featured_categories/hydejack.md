@@ -1,6 +1,6 @@
 ---
 layout: list
-title: 学习
+title: 个人简介
 slug: hydejack
 menu: true
 order: 1
