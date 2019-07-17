@@ -50,10 +50,8 @@ author:
 menu:
   - title:             个人简介
     url:               /hydejack/
-  - title:             生活
-    url:               /hyde/
   - title:             学习
-    url:               /docs/
+    url:               /hyde/              
   - title:             About
     url:               /about/
 
