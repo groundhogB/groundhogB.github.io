@@ -1,6 +1,6 @@
 ---
 layout: list
-title: 生活
+title: 学习
 slug: hyde
 menu: true
 order: 2
