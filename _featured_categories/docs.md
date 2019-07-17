@@ -1,6 +1,6 @@
 ---
 layout: list
-title: 学习
+title: 生活
 slug: docs
 menu: true
 order: 3
