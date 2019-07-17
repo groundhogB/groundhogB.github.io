@@ -19,12 +19,12 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 groundhogB
+title:                 fysh246
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "菜鸡土拨鼠的成长之路".
+  "菜飞的成长之路".
  
 
 # A shorter description for the sidebar.
@@ -41,7 +41,7 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <groundhog> <B>
+  name:                <fysh> <246>
   email:               <culabicsrxhy0@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
@@ -67,7 +67,7 @@ menu:
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2019.
-                         groundhogB   All rights reserved.
+                         fysh246   All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
